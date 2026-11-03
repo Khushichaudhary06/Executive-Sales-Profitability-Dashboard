@@ -138,7 +138,7 @@ The dashboard is designed to help users:
 |---|---|
 | 📊 [Excel Dashboard](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20emergency%20room%20Project.xlsx) | Complete Excel project |
 | 🎥 [Demo Video](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Demo%20video-%20Hospital%20emergency%20room%20.mp4) | Dashboard walkthrough |
-| 🖼️ [Dashboard Preview](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Dashboard%20of%20Hospital%20emergency%20room.png) | Dashboard screenshot |
+| 🖼️ [Dashboard Preview]Dashboard.png | Dashboard screenshot |
 
 
 ## Author
