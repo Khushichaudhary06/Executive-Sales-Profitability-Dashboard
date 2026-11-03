@@ -1,6 +1,6 @@
 # 📊 Executive Sales & Profitability Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 The **Executive Sales & Profitability Dashboard** is an interactive business intelligence project developed using Microsoft Power BI. It provides a comprehensive analysis of sales performance, revenue, profitability, product categories, sales channels, and geographical distribution.
 
@@ -8,7 +8,7 @@ The main objective is to transform raw sales data into meaningful business insig
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze overall sales and revenue performance.
 - Monitor gross profit and gross margin.
@@ -21,7 +21,7 @@ The main objective is to transform raw sales data into meaningful business insig
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 | KPI | Description |
 |---|---|
@@ -33,7 +33,7 @@ The main objective is to transform raw sales data into meaningful business insig
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### 1. Monthly Revenue & Profit Trend
 - Analyzes monthly revenue and gross profit.
@@ -62,7 +62,7 @@ The main objective is to transform raw sales data into meaningful business insig
 
 ---
 
-## 🎛️ Interactive Filters (Slicers)
+## Interactive Filters (Slicers)
 
 The dashboard includes interactive slicers for:
 
@@ -76,7 +76,7 @@ These filters allow users to explore specific periods, locations, and product se
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -88,7 +88,7 @@ These filters allow users to explore specific periods, locations, and product se
 
 ---
 
-## 🧮 DAX Measures
+## DAX Measures
 
 Total Revenue = SUM(SalesData[Sales])
 
@@ -108,7 +108,7 @@ SUM(SalesData[Order Quantity])
 Total Orders =
 DISTINCTCOUNT(SalesData[Order ID])
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 The dashboard is designed to help users:
 
@@ -119,3 +119,29 @@ The dashboard is designed to help users:
 - Compare product category performance.
 - Evaluate the contribution of different sales channels.
 - Make informed business decisions using interactive data analysis.
+
+## Skills Demonstrated
+
+- Business Intelligence
+- Data Analysis
+- Data Visualization
+- Microsoft Power BI
+- DAX Measures
+- Data Modeling
+- KPI Development
+- Interactive Dashboard Design
+- Business Performance Analysis
+
+## Project Files
+
+| File | Description |
+|---|---|
+| 📊 [Excel Dashboard](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20emergency%20room%20Project.xlsx) | Complete Excel project |
+| 🎥 [Demo Video](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Demo%20video-%20Hospital%20emergency%20room%20.mp4) | Dashboard walkthrough |
+| 🖼️ [Dashboard Preview](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Dashboard%20of%20Hospital%20emergency%20room.png) | Dashboard screenshot |
+
+
+## Author
+### Khushi Chaudhary
+
+Aspiring Data Analyst
