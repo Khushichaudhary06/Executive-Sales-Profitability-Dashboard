@@ -136,9 +136,8 @@ The dashboard is designed to help users:
 
 | File | Description |
 |---|---|
-| 📊 [Excel Dashboard](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20emergency%20room%20Project.xlsx) | Complete Excel project |
-| 🎥 [Demo Video](https://github.com/Khushichaudhary06/Hospital-Emergency-Room-Analysis/blob/main/Demo%20video-%20Hospital%20emergency%20room%20.mp4) | Dashboard walkthrough |
-| 🖼️ [Dashboard Preview]Dashboard.png | Dashboard screenshot |
+| 📊 [Power BI Dashboard]https://github.com/Khushichaudhary06/Executive-Sales-Profitability-Dashboard/blob/main/Sales%20%26%20Profitability%20Analysis.pbix | Complete Excel project |
+| 🖼️ [Dashboard Preview]https://github.com/Khushichaudhary06/Executive-Sales-Profitability-Dashboard/blob/main/Dashboard.png | Dashboard screenshot |
 
 
 ## Author
